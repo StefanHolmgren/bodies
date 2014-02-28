@@ -1,0 +1,4 @@
+namn1,x,y,z,tid,massa,radie
+namn2,x,y,z,tid,massa,radie
+
+
